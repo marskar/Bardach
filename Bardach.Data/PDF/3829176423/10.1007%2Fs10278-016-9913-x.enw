@@ -1,0 +1,16 @@
+%0 Journal Article
+%T Cyber-Security Issues in Healthcare Information Technology
+%A Langer, Steve G.
+%J Journal of Digital Imaging
+%D 2017
+%8 February 01
+%V 30
+%N 1
+%@ 1618-727X
+%F Langer2017
+%X In 1999–2003, SIIM (then SCAR) sponsored the creation of several special topic Primers, one of which was concerned with computer security. About the same time, a multi-society collaboration authored an ACR Guideline with a similar plot; the latter has recently been updated. The motivation for these efforts was the launch of Health Information Portability and Accountability Act (HIPAA). That legislation directed care providers to enable the portability of patient medical records across authorized medical centers, while simultaneously protecting patient confidentiality among unauthorized agents. These policy requirements resulted in the creation of numerous technical solutions which the above documents described. While the mathematical concepts and algorithms in those papers are as valid today as they were then, recent increases in the complexity of computer criminal applications (and defensive countermeasures) and the pervasiveness of Internet connected devices have raised the bar. This work examines how a medical center can adapt to these evolving threats.
+%9 journal article
+%R 10.1007/s10278-016-9913-x
+%U https://doi.org/10.1007/s10278-016-9913-x
+%P 117-125
+
